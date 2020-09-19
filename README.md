@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=quickn)](https://solved.ac/quickn)]
+
+- 🔭 I’m currently working on Kangwon Science Highschool & POINTER
+- 🌱 I’m currently learning Combinatorial optimization & Combinatorics & Algorithms
