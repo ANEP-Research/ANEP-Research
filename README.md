@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickn)](https://solved.ac/quickn)
+
 [![CodeForces Profile](http://cf.leed.at?id=quickn_babo)](https://codeforces.com/profile/quickn_babo)
 
 - 🔭 I’m currently working on Kangwon Science Highschool & POINTER
