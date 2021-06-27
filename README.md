@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![quickn](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftourist)](https://atcoder.jp/users/quickn)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickn)](https://solved.ac/quickn)
-
 [![CodeForces Profile](http://cf.leed.at?id=GraphTheory)](https://codeforces.com/profile/GraphTheory)
 
 - 🔭 I’m currently working on Kangwon Science Highschool & POINTER
