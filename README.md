@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quickn)](https://solved.ac/quickn)
 
-[![CodeForces Profile](http://cf.leed.at?id=GraphTheory)](https://codeforces.com/profile/GraphTheory)
+[![CodeForces Profile](http://cf.leed.at?id=GraphTheory)](https://codeforces.com/profile/LaplacianMatrix)
 
 - 🔭 I’m currently working on Kangwon Science Highschool & POINTER
 - 🌱 I’m currently learning Combinatorial optimization & Combinatorics & Algorithms
